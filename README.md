@@ -23,7 +23,7 @@ Unzip the content of the file in your local repository
 
 ### Executing program
 
-* Open IntelliJ by choosing the option "File -> Open".
+* Open the project by choosing the option "File -> Open".
 * Click on the green play button located in the top right to run the program.
 
 
